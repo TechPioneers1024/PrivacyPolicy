@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <title>Privacy Policy</title>
+    <style>
+      .container {
+        margin-left: 2%;
+        margin-right: 2%;
+      }
+    </style>
+</head>
+<body>
+<div class="container">
+    <p style="margin-top:18pt; margin-bottom:4pt; text-align:center; font-size:17pt"><span
+            style="font-family:Arial; font-weight:bold">Privacy Policy</span></p>
+    <p style="margin-top:12pt; margin-bottom:12pt; font-size:11pt"><span
+            style="font-family:Arial">Protecting your privacy is important to us. We hope the following statement will help you understand how our app(GPS Location Faker) deals with the personal identifiable information ('PII') you may occasionally provide to us via Internet (the Google Play Platform).</span>
+    </p>
+    <p style="margin-top:12pt; margin-bottom:12pt; font-size:11pt"><span
+            style="font-family:Arial">Generally, we do not collect any PII from you when you download our Android applications. To be specific, we do not require the consumers to get registered before downloading the application, nor do we keep track of the consumers' visits of our application, we even don't have a Server to store such PII.</span>
+    </p>
+    <p style="margin-top:12pt; margin-bottom:2pt; font-size:13pt"><span
+            style="font-family:Arial; font-weight:bold">Permissions we need</span></p>
+    <p style="margin-top:12pt; margin-bottom:12pt; font-size:11pt"><span
+            style="font-family:Arial">GPS Permission - Upon launching the application, we may use GPS technology (or equivalent methods) to identify your current location and display an associated map. Your current location will not be shared with other users or partners, and we do not retain this information. If you prefer not to allow the use of your location for the aforementioned purposes, you can disable location services for the mobile application in your mobile phone settings.</span>
+    </p>
+    <p style="margin-top:12pt; margin-bottom:12pt; font-size:11pt"><span
+            style="font-family:Arial">Floating Window Permission - This permission allows for a floating UI to modify the mocked geographic location, even when the app isn't on the screen. You can disable this permission in mobile phone settings or just within the mobile application.</span>
+    </p>
+    <p style="margin-top:12pt; margin-bottom:2pt; font-size:13pt"><span
+            style="font-family:Arial; font-weight:bold">Information we collect</span></p>
+    <p style="margin-top:12pt; margin-bottom:12pt; font-size:11pt"><span
+            style="font-family:Arial">Cookies ( Webview browser cookies) - We may use third-party advertising companies to serve ads when you visit the Application. These companies may use information about your visits to the app that are contained in cookies in order to optimize the performance of the marketing campaigns and provide ads about goods and services of interest to you. We NEVER shares any data you are tracking in the app (e.g. when you get your Personal Data) with third-Party Advertisers.</span>
+    </p>
+    <p style="margin-top:12pt; margin-bottom:12pt; font-size:11pt"><span
+            style="font-family:Arial">Ads - Our app may use some providers to show ads. These Ads providers can uses cookies only to identifies your device (as described above), then show ads that are relevant to our app's kind. We don't share any user's data with Facebook or other parties (Verified by BBC & Privacy International).</span>
+    </p>
+    <p style="margin-top:12pt; margin-bottom:12pt; font-size:11pt"><span
+            style="font-family:Arial">Analytics - We use third party analytics tool, Google Analytics, to help us measure traffic and usage trends for the service. Google Analytics collects information such as how often users visit our services, what pages they visit when they do so, and what other pages they use prior to coming to our services. We use the information get from Google Analytics only to improve our services.</span>
+    </p>
+    <p style="margin-top:12pt; margin-bottom:12pt; font-size:11pt"><span
+            style="font-family:Arial">Log file - The only situation we may get access to your PII is when you personally decide to email us your feedback or to provide us with a bug log report. The PII we may get from you in that situation are strictly limited to your name, email address, device information, location Information and your survey response only.</span>
+    </p>
+    <p style="margin-top:12pt; margin-bottom:2pt; font-size:13pt"><span
+            style="font-family:Arial; font-weight:bold">How we use your information</span></p>
+    <p style="margin-top:12pt; margin-bottom:12pt; font-size:11pt"><span
+            style="font-family:Arial">In above situation, we guarantee that your PII will only be used for contacting you and improving our services. We will never use such information (e.g. your name and email address) for any other purposes, such as to further market our products, or to disclose your personal information to a third party for commercial gains.</span>
+    </p>
+    <p style="margin-top:12pt; margin-bottom:2pt; font-size:13pt"><span
+            style="font-family:Arial; font-weight:bold">Contact us</span></p>
+    <p style="margin-top:12pt; margin-bottom:12pt; font-size:11pt"><span
+            style="font-family:Arial">It should be noted that whether or not to send us your feedback or bug report is a completely voluntary initiative upon your own decision. If you have concern about your PII being misused, or if you want further information about our privacy policy and what it means, please feel free to email us at techpioneerslab@gmail.com, we will endeavor to provide clear answers to your questions in a timely manner.</span>
+    </p>
+</div>
+</body>
+</html>
